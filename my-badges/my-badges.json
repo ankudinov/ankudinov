@@ -1,0 +1,107 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/bjmeuer/avd/commit/a632f7ad3c4f81273be43796531d8e6a717fa13e\"><strong>a</strong>632f7ad3c4f81273be43796531d8e6a717fa13e</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/abeba442e8a0db025371058d7036ea991a12d3b2\"><strong>ab</strong>eba442e8a0db025371058d7036ea991a12d3b2</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 3 times.",
+    "body": "- <a href=\"https://github.com/ankudinov/avd-all-in-one-container/commit/82ce3be154e0d0dbfd5838b7bcafe468e00180bd\">82ce3be154e0d0dbfd5838b7b<strong>cafe</strong>468e00180bd</a>\n- <a href=\"https://github.com/ankudinov/PyConf/commit/e468b643e4a5fa36630430cafe8b9e754571d700\">e468b643e4a5fa36630430<strong>cafe</strong>8b9e754571d700</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/db78890cf4d20ab9bb4cafe2dd548fbaae59e1c3\">db78890cf4d20ab9bb4<strong>cafe</strong>2dd548fbaae59e1c3</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 797 times)\n2. to (used 324 times)\n3. update (used 321 times)\n4. fix (used 264 times)\n5. and (used 162 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/749b1651ba0f56336769bf377db0789d0e0bd1e5\">749b165</a>: fix phone mac\n- <a href=\"https://github.com/ankudinov/aclabs/commit/e4384412bdafb431713d8d1f811d051e2708c490\">e438441</a>: fix entrypoint",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/ansible-avd-experimental-copy/commit/0f2bbc6dc01025dba91f32c5fa1e33f7adf8581b\">0f2bbc6</a>: fix reusable workflow\n- <a href=\"https://github.com/ankudinov/ansible-avd-experimental-copy/commit/03de58e059c030c61c8000d3cb609a696c303c1a\">03de58e</a>: fix reusable workflow\n- <a href=\"https://github.com/ankudinov/ansible-avd-experimental-copy/commit/b0422230ed3c24307adee586e00bbfc63bc01a7b\">b042223</a>: fix reusable workflow",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/8fb4ebcb7f276cae90570abd9eb9d2c2f34c3487\">8fb4ebc</a>: fix __demo_slug\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/1b05e43ee82fb8f63c5b79522431a0c194265100\">1b05e43</a>: fix template\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/010d99fe3d8c1c2095936e3170e8610f050bb7a8\">010d99f</a>: fix cc.py\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/2b81fd211910e3e7bf1f08e253331cfcb388daaf\">2b81fd2</a>: fix template\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/9bad6d0156619b1d758644334e446dc44a1c86b2\">9bad6d0</a>: fix template\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/4a9cb5d8720345d8e2a7989fa76075e995215dc7\">4a9cb5d</a>: fix template\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/e22af44e0a49c6e04329e66a50fce1e24f223fc0\">e22af44</a>: fix lab key in cc.py",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/dual-dc-with-gateways/commit/fbad670742c5196f7a90975ad7cf7f25233de58f\">fbad670</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/114\">#114</a>: Trigger reload after initial provisioning to activate ArBGP\n- <a href=\"https://github.com/aristanetworks/avd/issues/140\">#140</a>: Add Jinja2 filters to convert type when required\n- <a href=\"https://github.com/aristanetworks/avd/issues/158\">#158</a>: Verify if all devices and ports defined in vars are present\n- <a href=\"https://github.com/srl-labs/containerlab/issues/1472\">#1472</a>: ARM support is a must for cLab in 2023\n- <a href=\"https://github.com/squidfunk/mkdocs-material/issues/7053\">#7053</a>: Search is not present when privacy plugin is enabled",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/netdevops-examples\">aristanetworks/netdevops-examples: ★119</a>\n* <a href=\"https://github.com/aristanetworks/ansible-eos\">aristanetworks/ansible-eos: ★4</a>\n* <a href=\"https://github.com/ankudinov/PyPing_tool\">ankudinov/PyPing_tool: ★4</a>\n* <a href=\"https://github.com/arista-netdevops-community/nornir-snapshot\">arista-netdevops-community/nornir-snapshot: ★3</a>\n* <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro\">ankudinov/vscode-devcontainers-intro: ★3</a>\n* <a href=\"https://github.com/arista-netdevops-community/avd-cookiecutter\">arista-netdevops-community/avd-cookiecutter: ★2</a>\n* <a href=\"https://github.com/ankudinov/ansible-devcontainer\">ankudinov/ansible-devcontainer: ★2</a>\n* <a href=\"https://github.com/ankudinov/PyPing\">ankudinov/PyPing: ★1</a>\n* <a href=\"https://github.com/ankudinov/marp-template\">ankudinov/marp-template: ★1</a>\n* <a href=\"https://github.com/ankudinov/J2parser\">ankudinov/J2parser: ★1</a>\n* <a href=\"https://github.com/ankudinov/container-prebuild-example\">ankudinov/container-prebuild-example: ★1</a>\n* <a href=\"https://github.com/ankudinov/clab_test_playground\">ankudinov/clab_test_playground: ★1</a>\n* <a href=\"https://github.com/ankudinov/autocon01-arista\">ankudinov/autocon01-arista: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/avd-cvaas-demo/commit/1db3dcd2a6aad85cb78414a03b95100ba5450757\">1db3dcd</a>\n- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/65c67e44d755de997283cdb5de5761da4c558177\">65c67e4</a>\n- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/3ee9b3df5266941ed043873e79278544f8154a2a\">3ee9b3d</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/3374d8c1d89d7db6b31b8f4a93c8b673ced7e39a\">3374d8c</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/b69b6883f85f1eb6205aa924e583861a41931e1b\">b69b688</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/306225abed53831aa1d2c1b940e7c202ea4e75bd\">306225a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/676087b59c5872c86b65d2295aa7c4492b264617\">676087b</a>\n- <a href=\"https://github.com/ankudinov/aclabs/commit/64e48dc220547676faab8322a187a6bfd612db53\">64e48dc</a>\n- <a href=\"https://github.com/ankudinov/arista-at-ansible-automates24/commit/f062df638b05c73674f828e701e7bd76ddd40597\">f062df6</a>\n- <a href=\"https://github.com/ankudinov/arista-at-ansible-automates24/commit/e63cfdac6d78e7730d5fea93ddbebcc91de64cc0\">e63cfda</a>\n- <a href=\"https://github.com/ankudinov/arista-at-ansible-automates24/commit/03769ab44ddd116eca974bc7d5648002b414052c\">03769ab</a>\n- <a href=\"https://github.com/ankudinov/arista-at-ansible-automates24/commit/1eb9426d47196bc5bbb1d7afdcbb350ffe6dfa61\">1eb9426</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/autocon01-arista/commit/e99378f3afbb62fc8b5661449e6f80672c6cbf03\">e99378f</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/d8757446a28d52df808f547d9a5e3cde7cdb56e5\">d875744</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/a6f055219f042aed930f030686fc5a7b98a04cca\">a6f0552</a>\n- <a href=\"https://github.com/ankudinov/avd_l3ls_template/commit/077f76ee4b62b2705be53aa2b89b137c9ddf544c\">077f76e</a>\n- <a href=\"https://github.com/ankudinov/cook_and_cut/commit/6d31f42564b742b32c81f913ce698fe4cbbf2c51\">6d31f42</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/525c7c9d4093454df3de2f256be45baa36c14145\">525c7c9</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
