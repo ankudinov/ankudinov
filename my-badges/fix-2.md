@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ankudinov/aclabs/commit/749b1651ba0f56336769bf377db0789d0e0bd1e5">749b165</a>: fix phone mac
-- <a href="https://github.com/ankudinov/aclabs/commit/e4384412bdafb431713d8d1f811d051e2708c490">e438441</a>: fix entrypoint
+- <a href="https://github.com/ankudinov/aclabs/commit/e9f5c298edb9e5dcc8664d12b3ed55b3d1943b78">e9f5c29</a>: fix path in matrix workflow
+- <a href="https://github.com/ankudinov/aclabs/commit/633ded84ec0cf60439a4c62b23c68bd2746f0a34">633ded8</a>: fix latest in post-create
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
