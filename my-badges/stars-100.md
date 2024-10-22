@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/aristanetworks/netdevops-examples">aristanetworks/netdevops-examples: ★121</a>
+* <a href="https://github.com/aristanetworks/netdevops-examples">aristanetworks/netdevops-examples: ★122</a>
 * <a href="https://github.com/aristanetworks/ansible-eos">aristanetworks/ansible-eos: ★4</a>
 * <a href="https://github.com/ankudinov/PyPing_tool">ankudinov/PyPing_tool: ★4</a>
 * <a href="https://github.com/arista-netdevops-community/nornir-snapshot">arista-netdevops-community/nornir-snapshot: ★3</a>
