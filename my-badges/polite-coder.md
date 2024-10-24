@@ -10,5 +10,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/srl-labs/containerlab/issues/1472">#1472</a>: ARM support is a must for cLab in 2023
 - <a href="https://github.com/squidfunk/mkdocs-material/issues/7053">#7053</a>: Search is not present when privacy plugin is enabled
 
+ And many more...
+
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
