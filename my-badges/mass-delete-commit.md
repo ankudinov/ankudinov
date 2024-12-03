@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ankudinov/dual-dc-with-gateways/commit/fbad670742c5196f7a90975ad7cf7f25233de58f">fbad670</a>
+- <a href="https://github.com/ankudinov/one-click-se-demos/commit/4906b1a4ad35f1f47c50f81fb3cb7b27526f44ee">4906b1a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

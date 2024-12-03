@@ -12,10 +12,10 @@ Repos:
 * <a href="https://github.com/arista-netdevops-community/avd-cookiecutter">arista-netdevops-community/avd-cookiecutter: ★2</a>
 * <a href="https://github.com/ankudinov/ansible-devcontainer">ankudinov/ansible-devcontainer: ★2</a>
 * <a href="https://github.com/ankudinov/PyPing">ankudinov/PyPing: ★1</a>
-* <a href="https://github.com/ankudinov/marp-template">ankudinov/marp-template: ★1</a>
 * <a href="https://github.com/ankudinov/J2parser">ankudinov/J2parser: ★1</a>
-* <a href="https://github.com/ankudinov/container-prebuild-example">ankudinov/container-prebuild-example: ★1</a>
 * <a href="https://github.com/ankudinov/clab_test_playground">ankudinov/clab_test_playground: ★1</a>
+* <a href="https://github.com/ankudinov/container-prebuild-example">ankudinov/container-prebuild-example: ★1</a>
+* <a href="https://github.com/ankudinov/marp-template">ankudinov/marp-template: ★1</a>
 * <a href="https://github.com/ankudinov/autocon01-arista">ankudinov/autocon01-arista: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>

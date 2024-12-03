@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;ab&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/abeba442e8a0db025371058d7036ea991a12d3b2"><strong>ab</strong>eba442e8a0db025371058d7036ea991a12d3b2</a>
+- <a href="https://github.com/ankudinov/barschweg-expose/commit/ab72be284bff7da4a3464ea5e5a31b3ec16ce316"><strong>ab</strong>72be284bff7da4a3464ea5e5a31b3ec16ce316</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
