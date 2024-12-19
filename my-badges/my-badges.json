@@ -31,14 +31,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 817 times)\n2. update (used 337 times)\n3. fix (used 270 times)\n4. slide (used 111 times)\n5. merge (used 110 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 820 times)\n2. update (used 337 times)\n3. fix (used 273 times)\n4. slide (used 111 times)\n5. merge (used 110 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/e9f5c298edb9e5dcc8664d12b3ed55b3d1943b78\">e9f5c29</a>: fix path in matrix workflow\n- <a href=\"https://github.com/ankudinov/aclabs/commit/633ded84ec0cf60439a4c62b23c68bd2746f0a34\">633ded8</a>: fix latest in post-create",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/da3007e6ede4135633d378fb0fa9eee8fdf16604\">da3007e</a>: fix site_url\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/562f16ed9600bfd3b4ef381ce575a9ffb3522e5f\">562f16e</a>: fix branch",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/41ee97c2a65e8a7d37c637ccd8bb4cb46758af7b\">41ee97c</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/1939a7a4c1fdd4c17087f1bd079ac4a3b1066f7b\">1939a7a</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/e76956626d953bbaf01f11c4fcfeaa6a901226d6\">e769566</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/feef9bb717ec1f5393295cfeb8a5e246a4ead365\">feef9bb</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/d2a0c6f170762540bc49c6c2af6c23728eed9d61\">d2a0c6f</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/d71cd5228f4e2bef561d7599bd93e76090c4e956\">d71cd52</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/06a10a1f658c37828a8dba0fef6606e1d57c8951\">06a10a1</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/41ee97c2a65e8a7d37c637ccd8bb4cb46758af7b\">41ee97c</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/1939a7a4c1fdd4c17087f1bd079ac4a3b1066f7b\">1939a7a</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/e76956626d953bbaf01f11c4fcfeaa6a901226d6\">e769566</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/feef9bb717ec1f5393295cfeb8a5e246a4ead365\">feef9bb</a>\n- <a href=\"https://github.com/ankudinov/rpm-test/commit/d2a0c6f170762540bc49c6c2af6c23728eed9d61\">d2a0c6f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {

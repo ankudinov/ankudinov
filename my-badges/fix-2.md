@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ankudinov/aclabs/commit/e9f5c298edb9e5dcc8664d12b3ed55b3d1943b78">e9f5c29</a>: fix path in matrix workflow
-- <a href="https://github.com/ankudinov/aclabs/commit/633ded84ec0cf60439a4c62b23c68bd2746f0a34">633ded8</a>: fix latest in post-create
+- <a href="https://github.com/ankudinov/copier-simple-demo/commit/da3007e6ede4135633d378fb0fa9eee8fdf16604">da3007e</a>: fix site_url
+- <a href="https://github.com/ankudinov/copier-simple-demo/commit/562f16ed9600bfd3b4ef381ce575a9ffb3522e5f">562f16e</a>: fix branch
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
