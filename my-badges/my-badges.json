@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 820 times)\n2. update (used 337 times)\n3. fix (used 273 times)\n4. slide (used 111 times)\n5. merge (used 110 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 825 times)\n2. update (used 337 times)\n3. fix (used 273 times)\n4. slide (used 111 times)\n5. merge (used 110 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -152,5 +152,12 @@
     "desc": "I have participated in pull requests with 20 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/ankudinov/avd/pull/8\">#8</a>: sync with parent",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-20.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/1a86d711b3b131bf80cd987f633a6732978ec250\">1a86d71</a>\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/1be5a43bb876fd8087e63e7f17a3977e45a2d044\">1be5a43</a>\n- <a href=\"https://github.com/ankudinov/l3ls-demo-scaled/commit/67a06288645d921c48efc725cb90dd8c9975e545\">67a0628</a>\n- <a href=\"https://github.com/ankudinov/l3ls-demo-scaled/commit/b4342ac96746eeb77a0476abb88df4fd138c1353\">b4342ac</a>\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/1570635901c196edb3deda80202cc0c56a614969\">1570635</a>\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/25cd617429a99f6b98b2eb3e8e5d1da6b1d95f43\">25cd617</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
   }
 ]
