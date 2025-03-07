@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 830 times)\n2. update (used 357 times)\n3. fix (used 276 times)\n4. slide (used 111 times)\n5. merge (used 110 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 831 times)\n2. update (used 357 times)\n3. fix (used 277 times)\n4. slide (used 111 times)\n5. merge (used 110 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/avd-cvaas-demo/commit/1db3dcd2a6aad85cb78414a03b95100ba5450757\">1db3dcd</a>\n- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/65c67e44d755de997283cdb5de5761da4c558177\">65c67e4</a>\n- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/3ee9b3df5266941ed043873e79278544f8154a2a\">3ee9b3d</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/3374d8c1d89d7db6b31b8f4a93c8b673ced7e39a\">3374d8c</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/b69b6883f85f1eb6205aa924e583861a41931e1b\">b69b688</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/306225abed53831aa1d2c1b940e7c202ea4e75bd\">306225a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/bjmeuer/avd/commit/dace5da04565b885497201810067d38fdabce4de\">dace5da</a>\n- <a href=\"https://github.com/ankudinov/avd-cvaas-demo/commit/1db3dcd2a6aad85cb78414a03b95100ba5450757\">1db3dcd</a>\n- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/65c67e44d755de997283cdb5de5761da4c558177\">65c67e4</a>\n- <a href=\"https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/3ee9b3df5266941ed043873e79278544f8154a2a\">3ee9b3d</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/3374d8c1d89d7db6b31b8f4a93c8b673ced7e39a\">3374d8c</a>\n- <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro/commit/b69b6883f85f1eb6205aa924e583861a41931e1b\">b69b688</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
