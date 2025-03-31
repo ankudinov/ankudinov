@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/d58dd60167193d499875c904e7278bbb213c2b9c">d58dd60</a>
+- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/12ebd6db4e433a69d64921eb76da6c9d0c0b5567">12ebd6d</a>
+- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/c70701b8eb53e042b052097667eddcab6499aed7">c70701b</a>
+- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/ec04d61a04631018b881230425262cca78da82ec">ec04d61</a>
+- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/d264b72a37e75ea169ddf32b758fc0b448030e2d">d264b72</a>
 - <a href="https://github.com/ankudinov/avd-slow-cooking/commit/ee6ada94cfe62175485abbf47782dbccdcb5a44d">ee6ada9</a>
-- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/8e7c3b4286008fe9603ac81a71333a46df9f1aff">8e7c3b4</a>
-- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/d3c3b297dee383b5a49b56b9303137b5efb3882a">d3c3b29</a>
-- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/7f272eba4b2e83910da2884e437aa31285653af8">7f272eb</a>
-- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/6d6a4af32c14661a50c6c75d65f4dbdb0f48c5b5">6d6a4af</a>
-- <a href="https://github.com/ankudinov/avd-slow-cooking/commit/99744c54aba1593b218d6b1fbd2309436a6470f0">99744c5</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
