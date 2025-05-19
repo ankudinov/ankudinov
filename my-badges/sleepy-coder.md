@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ankudinov/avd-workshop-may-2025/commit/fc018229d36afddffbf7c28483a562d0c7b60a95">fc01822</a>
 - <a href="https://github.com/bjmeuer/avd/commit/dace5da04565b885497201810067d38fdabce4de">dace5da</a>
 - <a href="https://github.com/ankudinov/avd/commit/dace5da04565b885497201810067d38fdabce4de">dace5da</a>
 - <a href="https://github.com/ankudinov/avd-cvaas-demo/commit/1db3dcd2a6aad85cb78414a03b95100ba5450757">1db3dcd</a>
 - <a href="https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/65c67e44d755de997283cdb5de5761da4c558177">65c67e4</a>
 - <a href="https://github.com/ankudinov/t5-gw-index-active-standby-demo/commit/3ee9b3df5266941ed043873e79278544f8154a2a">3ee9b3d</a>
-- <a href="https://github.com/ankudinov/vscode-devcontainers-intro/commit/3374d8c1d89d7db6b31b8f4a93c8b673ced7e39a">3374d8c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
