@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ankudinov/one-click-se-demos/commit/4906b1a4ad35f1f47c50f81fb3cb7b27526f44ee">4906b1a</a>
+- <a href="https://github.com/ankudinov/ci-workshops-avd/commit/c47009540480db7cdbbbf09e702d83a860213426">c470095</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

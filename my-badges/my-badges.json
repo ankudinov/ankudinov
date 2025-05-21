@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 838 times)\n2. update (used 366 times)\n3. fix (used 280 times)\n4. merge (used 111 times)\n5. slide (used 111 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 845 times)\n2. update (used 366 times)\n3. fix (used 285 times)\n4. merge (used 121 times)\n5. slide (used 113 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/4906b1a4ad35f1f47c50f81fb3cb7b27526f44ee\">4906b1a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/ci-workshops-avd/commit/c47009540480db7cdbbbf09e702d83a860213426\">c470095</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
