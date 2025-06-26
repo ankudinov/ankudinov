@@ -159,5 +159,12 @@
     "desc": "Happy February 29th! I committed on a Leap Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/1a86d711b3b131bf80cd987f633a6732978ec250\">1a86d71</a>\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/1be5a43bb876fd8087e63e7f17a3977e45a2d044\">1be5a43</a>\n- <a href=\"https://github.com/ankudinov/l3ls-demo-scaled/commit/67a06288645d921c48efc725cb90dd8c9975e545\">67a0628</a>\n- <a href=\"https://github.com/ankudinov/l3ls-demo-scaled/commit/b4342ac96746eeb77a0476abb88df4fd138c1353\">b4342ac</a>\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/1570635901c196edb3deda80202cc0c56a614969\">1570635</a>\n- <a href=\"https://github.com/ankudinov/temp_container_build/commit/25cd617429a99f6b98b2eb3e8e5d1da6b1d95f43\">25cd617</a>",
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/a014129d10e2282a21d89acb1e51ec01eaf2a3a3\">a014129</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/892b18aee26182aade6b594527180b08db546144\">892b18a</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/32cbfb38e06c537ca90c2b3d27264e9a09862ef6\">32cbfb3</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/feb44545d1fb47b9f1a6b64e5b3181e06a130c64\">feb4454</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/f15b65536aff1f97e5585177675e289495b434fc\">f15b655</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/15aa4798d44de140a4422d3d182ccc2b954f71ef\">15aa479</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
   }
 ]

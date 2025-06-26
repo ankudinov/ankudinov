@@ -22,6 +22,7 @@
 <a href="my-badges/pr-collaboration-15.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-15.png" alt="I have participated in pull requests with 15 or more people" title="I have participated in pull requests with 15 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-20.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-20.png" alt="I have participated in pull requests with 20 or more people" title="I have participated in pull requests with 20 or more people" width="64"></a>
 <a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
+<a href="my-badges/summer-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/summer-solstice-commits.png" alt="I commit in the Summer solstice." title="I commit in the Summer solstice." width="64"></a>
 <!-- my-badges end -->
 
 <!--
