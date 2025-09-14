@@ -166,5 +166,12 @@
     "desc": "I commit in the Summer solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/a014129d10e2282a21d89acb1e51ec01eaf2a3a3\">a014129</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/892b18aee26182aade6b594527180b08db546144\">892b18a</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/32cbfb38e06c537ca90c2b3d27264e9a09862ef6\">32cbfb3</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/feb44545d1fb47b9f1a6b64e5b3181e06a130c64\">feb4454</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/f15b65536aff1f97e5585177675e289495b434fc\">f15b655</a>\n- <a href=\"https://github.com/ankudinov/test-gh-ci-with-devcontainer/commit/15aa4798d44de140a4422d3d182ccc2b954f71ef\">15aa479</a>",
     "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/05604b2ed1181eb59f668c297bf4d3279f8fbb8c\">05604b2</a>\n- <a href=\"https://github.com/ankudinov/aclabs/commit/254f6e89724f041e6135f3f0ac4597e4ba9ffaa9\">254f6e8</a>\n- <a href=\"https://github.com/ankudinov/aclabs/commit/87b905267d392d56c055a1cc843c2761ba22cf7b\">87b9052</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/343fe3373479cee16ca80736f371a933d805a54e\">343fe33</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/b2213375d2f438d5de2e9bfc99d721ccdad461ea\">b221337</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/774e5d1ffea7f9b36909530e53d819b7f3a09a57\">774e5d1</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
