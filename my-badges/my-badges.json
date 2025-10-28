@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 872 times)\n2. update (used 384 times)\n3. fix (used 291 times)\n4. merge (used 115 times)\n5. slide (used 113 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 868 times)\n2. update (used 383 times)\n3. fix (used 290 times)\n4. merge (used 115 times)\n5. slide (used 113 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,13 +110,6 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/c93e9105cf29011e9ad17b4a6004f172029b8b47\">c93e910</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/devcontainer-qemu/commit/0e47767b04c242af171c6f009adee776c5a19379\">0e47767</a>\n- <a href=\"https://github.com/ankudinov/devcontainer-qemu/commit/8866e42d25ae8f0974ce2623ac56b0255fa229aa\">8866e42</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
     "id": "self-upvote",
