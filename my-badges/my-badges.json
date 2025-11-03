@@ -166,5 +166,12 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/05604b2ed1181eb59f668c297bf4d3279f8fbb8c\">05604b2</a>\n- <a href=\"https://github.com/ankudinov/aclabs/commit/254f6e89724f041e6135f3f0ac4597e4ba9ffaa9\">254f6e8</a>\n- <a href=\"https://github.com/ankudinov/aclabs/commit/87b905267d392d56c055a1cc843c2761ba22cf7b\">87b9052</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/343fe3373479cee16ca80736f371a933d805a54e\">343fe33</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/b2213375d2f438d5de2e9bfc99d721ccdad461ea\">b221337</a>\n- <a href=\"https://github.com/ankudinov/ansible-devcontainer/commit/774e5d1ffea7f9b36909530e53d819b7f3a09a57\">774e5d1</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
