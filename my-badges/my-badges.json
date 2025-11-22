@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 869 times)\n2. update (used 383 times)\n3. fix (used 290 times)\n4. merge (used 115 times)\n5. slide (used 113 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 871 times)\n2. update (used 388 times)\n3. fix (used 290 times)\n4. merge (used 117 times)\n5. slide (used 113 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd-workshop-may-2025/commit/99131732f706ce3d7dca774beaa875bba1d23d11\">9913173</a>\n- <a href=\"https://github.com/ankudinov/avd-workshop-may-2025/commit/99131732f706ce3d7dca774beaa875bba1d23d11\">9913173</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/d58dd60167193d499875c904e7278bbb213c2b9c\">d58dd60</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/12ebd6db4e433a69d64921eb76da6c9d0c0b5567\">12ebd6d</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/c70701b8eb53e042b052097667eddcab6499aed7\">c70701b</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/ec04d61a04631018b881230425262cca78da82ec\">ec04d61</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/aclabs/commit/47bca6b567af92ca44b4aca57ca16599585fd65e\">47bca6b</a>\n- <a href=\"https://github.com/gmuloc/avd-workshop-may-2025/commit/99131732f706ce3d7dca774beaa875bba1d23d11\">9913173</a>\n- <a href=\"https://github.com/ankudinov/avd-workshop-may-2025/commit/99131732f706ce3d7dca774beaa875bba1d23d11\">9913173</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/d58dd60167193d499875c904e7278bbb213c2b9c\">d58dd60</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/12ebd6db4e433a69d64921eb76da6c9d0c0b5567\">12ebd6d</a>\n- <a href=\"https://github.com/ankudinov/avd-slow-cooking/commit/c70701b8eb53e042b052097667eddcab6499aed7\">c70701b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
