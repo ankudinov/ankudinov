@@ -173,5 +173,19 @@
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/alla-art/commit/d3a986e3d4c4e2694225613100ed7b022d7fe7fd\">d3a986e</a>\n- <a href=\"https://github.com/ankudinov/alla-art/commit/ed79fa45bd785d567704a6f3c2d2546c7c79e99b\">ed79fa4</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/200b3d686ae7ccbd1d573dc927b4e088763dda51\">200b3d6</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/b51f13dea1c7046d6c28ba418e0d21a877f2c2ce\">b51f13d</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/9f58a0c77309a461a0d436455c377d7b1047b740\">9f58a0c</a>\n- <a href=\"https://github.com/ankudinov/runam-avd/commit/2361dcbbfd6f9a396e0895806d02638508f61ea8\">2361dcb</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/976281a01d900267e36915acb73828755b0132cc\">976281a</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/11d347e990a8859798413cfe8f66b50200d7e85f\">11d347e</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/909ca7ca1966b33473aeb6d33286fcbf950b2779\">909ca7c</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/0d211f6e6d9d16049c5838aa131affc2f352e779\">0d211f6</a>\n- <a href=\"https://github.com/ankudinov/barschweg-expose/commit/80afdf19456f46813a972164842affa48f02343a\">80afdf1</a>\n- <a href=\"https://github.com/ankudinov/barschweg-expose/commit/434334a05a01f347e00289f53e32b06da75f8771\">434334a</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
