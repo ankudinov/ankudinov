@@ -187,5 +187,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/976281a01d900267e36915acb73828755b0132cc\">976281a</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/11d347e990a8859798413cfe8f66b50200d7e85f\">11d347e</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/909ca7ca1966b33473aeb6d33286fcbf950b2779\">909ca7c</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/0d211f6e6d9d16049c5838aa131affc2f352e779\">0d211f6</a>\n- <a href=\"https://github.com/ankudinov/barschweg-expose/commit/80afdf19456f46813a972164842affa48f02343a\">80afdf1</a>\n- <a href=\"https://github.com/ankudinov/barschweg-expose/commit/434334a05a01f347e00289f53e32b06da75f8771\">434334a</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/6cfd26269cc585cfdd2f1dcb24c67d7a1b06d494\">6cfd262</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/347ffe8a1a844c5a911822bdbe7381038ed427e6\">347ffe8</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/b8531c809b7e9b936b2decf2fba94d4d45f7cd3b\">b8531c8</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/84c0b089323a16a1cfcbb3e4b090d99d4d22a9d9\">84c0b08</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/b6d772b22aee19fca2d4fccae554396fa05e996f\">b6d772b</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/56b0da3168355889d0db50ed01b58b8e1267efde\">56b0da3</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
