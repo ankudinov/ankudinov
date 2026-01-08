@@ -177,7 +177,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/alla-art/commit/d3a986e3d4c4e2694225613100ed7b022d7fe7fd\">d3a986e</a>\n- <a href=\"https://github.com/ankudinov/alla-art/commit/ed79fa45bd785d567704a6f3c2d2546c7c79e99b\">ed79fa4</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/200b3d686ae7ccbd1d573dc927b4e088763dda51\">200b3d6</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/b51f13dea1c7046d6c28ba418e0d21a877f2c2ce\">b51f13d</a>\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/9f58a0c77309a461a0d436455c377d7b1047b740\">9f58a0c</a>\n- <a href=\"https://github.com/ankudinov/runam-avd/commit/2361dcbbfd6f9a396e0895806d02638508f61ea8\">2361dcb</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -194,5 +194,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/one-click-se-demos/commit/6cfd26269cc585cfdd2f1dcb24c67d7a1b06d494\">6cfd262</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/347ffe8a1a844c5a911822bdbe7381038ed427e6\">347ffe8</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/b8531c809b7e9b936b2decf2fba94d4d45f7cd3b\">b8531c8</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/84c0b089323a16a1cfcbb3e4b090d99d4d22a9d9\">84c0b08</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/b6d772b22aee19fca2d4fccae554396fa05e996f\">b6d772b</a>\n- <a href=\"https://github.com/ankudinov/daytona-test/commit/56b0da3168355889d0db50ed01b58b8e1267efde\">56b0da3</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/73cda26cc92b3591b27ca71c0a684517e6bd52b8\">73cda26</a>\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/56e0dbbefdc14eefe909970245563ba1d67dc4cc\">56e0dbb</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
