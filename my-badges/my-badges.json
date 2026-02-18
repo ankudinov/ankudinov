@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 891 times)\n2. update (used 400 times)\n3. fix (used 297 times)\n4. slide (used 113 times)\n5. merge (used 111 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 891 times)\n2. update (used 400 times)\n3. fix (used 298 times)\n4. slide (used 113 times)\n5. merge (used 111 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -201,5 +201,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/73cda26cc92b3591b27ca71c0a684517e6bd52b8\">73cda26</a>\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/56e0dbbefdc14eefe909970245563ba1d67dc4cc\">56e0dbb</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/avd/commit/67a3887e537f9f591b16c8110404f948144a71ae\">67a3887</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
