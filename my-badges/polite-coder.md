@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/aristanetworks/avd/issues/6534">#6534</a>: DHCP support for management interfaces
 - <a href="https://github.com/aristanetworks/avd/issues/6587">#6587</a>: Docs: improve AVD examples and guides using Playground labs
 - <a href="https://github.com/aristanetworks/avd/issues/114">#114</a>: Trigger reload after initial provisioning to activate ArBGP
 - <a href="https://github.com/aristanetworks/avd/issues/140">#140</a>: Add Jinja2 filters to convert type when required
 - <a href="https://github.com/aristanetworks/avd/issues/158">#158</a>: Verify if all devices and ports defined in vars are present
+- <a href="https://github.com/srl-labs/containerlab/issues/1472">#1472</a>: ARM support is a must for cLab in 2023
 
  And many more...
 
