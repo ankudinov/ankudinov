@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 903 times)\n2. update (used 400 times)\n3. fix (used 300 times)\n4. slide (used 113 times)\n5. merge (used 111 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 903 times)\n2. update (used 400 times)\n3. fix (used 299 times)\n4. slide (used 113 times)\n5. merge (used 111 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,13 +75,6 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/6587\">#6587</a>: Docs: improve AVD examples and guides using Playground labs\n- <a href=\"https://github.com/aristanetworks/avd/issues/114\">#114</a>: Trigger reload after initial provisioning to activate ArBGP\n- <a href=\"https://github.com/aristanetworks/avd/issues/140\">#140</a>: Add Jinja2 filters to convert type when required\n- <a href=\"https://github.com/aristanetworks/avd/issues/158\">#158</a>: Verify if all devices and ports defined in vars are present\n- <a href=\"https://github.com/srl-labs/containerlab/issues/1472\">#1472</a>: ARM support is a must for cLab in 2023\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/netdevops-examples\">aristanetworks/netdevops-examples: ★133</a>\n* <a href=\"https://github.com/aristanetworks/ansible-eos\">aristanetworks/ansible-eos: ★5</a>\n* <a href=\"https://github.com/ankudinov/PyPing_tool\">ankudinov/PyPing_tool: ★4</a>\n* <a href=\"https://github.com/arista-netdevops-community/nornir-snapshot\">arista-netdevops-community/nornir-snapshot: ★3</a>\n* <a href=\"https://github.com/ankudinov/vscode-devcontainers-intro\">ankudinov/vscode-devcontainers-intro: ★3</a>\n* <a href=\"https://github.com/arista-netdevops-community/avd-cookiecutter\">arista-netdevops-community/avd-cookiecutter: ★2</a>\n* <a href=\"https://github.com/ankudinov/ansible-devcontainer\">ankudinov/ansible-devcontainer: ★2</a>\n* <a href=\"https://github.com/ankudinov/PyPing\">ankudinov/PyPing: ★1</a>\n* <a href=\"https://github.com/ankudinov/J2parser\">ankudinov/J2parser: ★1</a>\n* <a href=\"https://github.com/ankudinov/clab_test_playground\">ankudinov/clab_test_playground: ★1</a>\n* <a href=\"https://github.com/ankudinov/container-prebuild-example\">ankudinov/container-prebuild-example: ★1</a>\n* <a href=\"https://github.com/ankudinov/marp-template\">ankudinov/marp-template: ★1</a>\n* <a href=\"https://github.com/ankudinov/autocon01-arista\">ankudinov/autocon01-arista: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "sleepy-coder",
