@@ -4,7 +4,7 @@
 
 Issues:
 
-- <a href="https://github.com/aristanetworks/cvprac/issues/182">#182</a>: Get request to CVaaS/on-prem CVP with Authorization bearer fails for getImageBundles.do
+- <a href="https://github.com/aristanetworks/avd/issues/3178">#3178</a>: Feat(gh action/packages): AVD dev containers
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

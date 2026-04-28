@@ -29,6 +29,7 @@
 <a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
+<a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
 <!-- my-badges end -->
 
 <!--

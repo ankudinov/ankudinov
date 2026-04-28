@@ -208,5 +208,12 @@
     "desc": "I pushed a commit with \"dead\" once.",
     "body": "- <a href=\"https://github.com/ankudinov/avd/commit/dead627cb08a6168caed0910831a179073e59876\"><strong>dead</strong>627cb08a6168caed0910831a179073e59876</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/3178\">#3178</a>: Feat(gh action/packages): AVD dev containers",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   }
 ]
