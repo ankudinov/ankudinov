@@ -31,14 +31,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 909 times)\n2. update (used 401 times)\n3. fix (used 301 times)\n4. slide (used 115 times)\n5. init (used 113 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 911 times)\n2. update (used 401 times)\n3. fix (used 303 times)\n4. slide (used 116 times)\n5. init (used 114 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/da3007e6ede4135633d378fb0fa9eee8fdf16604\">da3007e</a>: fix site_url\n- <a href=\"https://github.com/ankudinov/copier-simple-demo/commit/562f16ed9600bfd3b4ef381ce575a9ffb3522e5f\">562f16e</a>: fix branch",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ankudinov/ac5-workshop/commit/01d0f7e8b56eebf1e27c1f8ae4343caeaed5d3bf\">01d0f7e</a>: fix rich version\n- <a href=\"https://github.com/ankudinov/ac5-workshop/commit/c2cd422310e16c02a84f2cadc33d00611f299556\">c2cd422</a>: fix",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
