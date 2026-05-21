@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ankudinov/ac5-workshop/commit/01d0f7e8b56eebf1e27c1f8ae4343caeaed5d3bf">01d0f7e</a>: fix rich version
-- <a href="https://github.com/ankudinov/ac5-workshop/commit/c2cd422310e16c02a84f2cadc33d00611f299556">c2cd422</a>: fix
+- <a href="https://github.com/ankudinov/copier-simple-demo/commit/da3007e6ede4135633d378fb0fa9eee8fdf16604">da3007e</a>: fix site_url
+- <a href="https://github.com/ankudinov/copier-simple-demo/commit/562f16ed9600bfd3b4ef381ce575a9ffb3522e5f">562f16e</a>: fix branch
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
