@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ankudinov/copier-simple-demo/commit/da3007e6ede4135633d378fb0fa9eee8fdf16604">da3007e</a>: fix site_url
-- <a href="https://github.com/ankudinov/copier-simple-demo/commit/562f16ed9600bfd3b4ef381ce575a9ffb3522e5f">562f16e</a>: fix branch
+- <a href="https://github.com/ankudinov/aclabs-workshop-june-2026/commit/5e44c8fedc28db4ae961194b0440b5ad904241a1">5e44c8f</a>: fix how-it-started
+- <a href="https://github.com/ankudinov/aclabs-workshop-june-2026/commit/a83ab29443d0325e0e572d8de4ffc853d2d55a8f">a83ab29</a>: fix how-it-works layout
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
